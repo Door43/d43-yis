@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yis:home|Door43 (yis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yis|d43-yis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yis/archive/master.zip|d43-yis.zip]]
+
+**Recent Changes**
+{{changes>ns = yis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yis|Ethnologue data]]
+
